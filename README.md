@@ -18,14 +18,14 @@ The software is ready-to-use and no need any compilation.
 
 a) open the Primers_table.csv file in folder "inputfiles";
 b) compile the file adding all the informations of the primers/probes of the new assay;
-c) follow the instructions from 2) to 4)
+c) follow the instructions from 2) to 4).
 
 - If you want to add a new sequence to the S segment database:
 
 a) open the CCHFVsequences.fasta file in folder "inputfiles";
 b) add the new sequence to the file;
 c) open the CCHFVsequencesAligned.fasta file in folder "inputfiles";
-d) align the CCHFVsequencesAligned.fasta using your preferred aligner tool 
-e) save the new file as "CCHFVsequencesAligned.fasta"
-f) chek the refence sequence "NC_005302_S_Aligned.fasta" is well aligned with the new "CCHFVsequencesAligned.fasta"
-g) follow the instructions from 2) to 4)
+d) align the CCHFVsequencesAligned.fasta using your preferred aligner tool;
+e) save the new file as "CCHFVsequencesAligned.fasta";
+f) chek the refence sequence "NC_005302_S_Aligned.fasta" is well aligned with the new "CCHFVsequencesAligned.fasta";
+g) follow the instructions from 2) to 4).
