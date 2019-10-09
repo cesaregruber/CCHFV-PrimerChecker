@@ -17,7 +17,6 @@ The software is ready-to-use and no need any compilation.
 - If you want to compare a new assay with the previously analyzed:
 
     a) open the Primers_table.csv file in folder "inputfiles";
-
     b) compile the file adding all the informations of the primers/probes of the new assay;
 
     c) follow the instructions from 2) to 4).
