@@ -11,4 +11,5 @@ If you use CCHFV-PrimerChecker in your PC for the first time,
 1) Clone the folders "bins" and "inputfiles" in your local directory;
 2) open a shell or a prompt in that directory;
 3) digit: "python bins/CCHFVPrimerChecker.py";
-4) Take a look on output data
+4) Search for the file "PrimersMatches_RESULTS.xls" in your local directory: here you can find the result of all the anayzed in   the reference work.
+
