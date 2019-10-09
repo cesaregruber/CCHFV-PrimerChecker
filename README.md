@@ -16,8 +16,10 @@ The software is ready-to-use and no need any compilation.
 
 - If you want to compare a new assay with the previously analyzed:
 
-a) open the Primers_table.csv file in folder "inputfiles";\n
-b) compile the file adding all the informations of the primers/probes of the new assay;\n
+a) open the Primers_table.csv file in folder "inputfiles";
+
+b) compile the file adding all the informations of the primers/probes of the new assay;
+
 c) follow the instructions from 2) to 4).
 
 - If you want to add a new sequence to the S segment database:
