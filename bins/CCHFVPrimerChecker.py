@@ -90,12 +90,12 @@ prim = path+"/Primers_sequences.fa"  # nome dell' OUTPUT 'primfa'
 primfa = open(prim, 'w')    
 
 # tabella dei risultati :
-outf = open(join(path,'PrimersMetches.csv'), 'w')                  #schema dei primer
+outf = open(join(path,'PrimersMatches.csv'), 'w')                  #schema dei primer
 
 outfasta=open(join(path,  'Primers_Sequences_aligned.fasta'), 'w')    # FASTA dei primer (per controllo)
 
 
-myworkbook = join(path,  'PrimersMetches_RESULTS.xls')            #file exel dei primer FORMATTATO !!!
+myworkbook = join(path,  'PrimersMatches_RESULTS.xls')            #file exel dei primer FORMATTATO !!!
 
 
 # ##############################################################################
