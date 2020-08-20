@@ -1,7 +1,7 @@
 # CCHFV-PrimerChecker
 Bioinformatic tool to evaluate detection efficacy of existing molecular assays and to propose specific sets of assays to detect as much as possible CCHFV strains from all geographic regions.
 
-Reference: Gruber, Bartolini, Castilletti et al. "Geographical variability affects CCHFV detection by RT-PCR: a tool for in-silico evaluation of molecular assays"; Viruses (Submitted).
+**Reference:** Gruber CEM, Bartolini B, Castilletti C, et al. Geographical Variability Affects CCHFV Detection by RT-PCR: A Tool for In-Silico Evaluation of Molecular Assays. Viruses. 2019;11(10):953. Published 2019 Oct 16. doi:10.3390/v11100953
 
 Instructions:
 
